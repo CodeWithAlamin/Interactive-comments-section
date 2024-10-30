@@ -5,7 +5,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges)
 
 <h2>
 
-[🚀Live Site](https://interactive-comments-section-codepapa360.vercel.app/)
+[🚀Live Site](https://interactive-comments-section-alamin.vercel.app/)
 ||
 [💡Frontend Mentor](https://www.frontendmentor.io/solutions/nested-comment-section-built-with-vanilla-js-mvc-and-pubsub-pattern-C4fL2vWc_l)
 
@@ -27,9 +27,9 @@ This is a web application that showcases an interactive comments section. Users 
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://interactive-comments-section-codepapa360.vercel.app/">
+<a align="center" href="https://interactive-comments-section-alamin.vercel.app/">
 
-![Screenshot](./screenshots/Interactive-comments-section-preview-codepapa360.png)
+![Screenshot](./screenshots/Interactive-comments-section-preview-CodeWithAlamin.png)
 
 </a>
 
@@ -133,7 +133,7 @@ On the other hand, the Pub-Sub method provided a way for different parts of the 
 
 By using these patterns, I was able to create a more organized and maintainable application. It also helped me handle user interactions and update the comments section dynamically without reloading the page. I learned how to manage data efficiently, display it on the screen, and handle user interactions smoothly.
 
-This project built upon my previous experience with the [Forkify](https://github.com/CodePapa360/Forkify-Recipe-App) app, where I first encountered these patterns. Through practice and application, I gained more confidence in using these patterns effectively and understanding their benefits in real-world projects.
+This project built upon my previous experience with the [Forkify](https://github.com/CodeWithAlamin/Forkify-Recipe-App) app, where I first encountered these patterns. Through practice and application, I gained more confidence in using these patterns effectively and understanding their benefits in real-world projects.
 
 Overall, it was a great learning experience, and I'm excited to use these skills in future projects to create even better and more user-friendly web applications.
 
@@ -141,10 +141,10 @@ Overall, it was a great learning experience, and I'm excited to use these skills
 
 <b>👤 Alamin</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
@@ -154,4 +154,4 @@ This project was inspired by the "Interactive Comments Section" challenge from F
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/CodePapa360/Interactive-comments-section/blob/main/LICENSE.md) License - see the LICENSE file for details.
+This project is licensed under the [MIT](https://github.com/CodeWithAlamin/Interactive-comments-section/blob/main/LICENSE.md) License - see the LICENSE file for details.
